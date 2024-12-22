@@ -19,3 +19,4 @@ print("Этаж:", et_number)
 print("Всего этажей в доме:" , int(kvartir_v_pod/kvartir_na_etazhe))
 
 Exit=input("Нажмите Enter для выхода")
+# new comment
